@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Clip Studio Paint",
+    "logo": "/images/skills/clipstudio.png"
+  },
+  {
+    "id": 2,
+    "name": "Adobe After Effect",
+    "logo": "/images/skills/aftereffects.png"
+  },
+  {
+    "id": 3,
+    "name": "Adobe Indesign",
+    "logo": "/images/skills/indesign.png"
+  },
+  {
+    "id": 4,
+    "name": "Adobe Illustrator",
+    "logo": "/images/skills/illustrator.png"
+  },
+  {
+    "id": 5,
+    "name": "Adobe Substance 3D Painter",
+    "logo": "/images/skills/substance.png"
+  },
+  {
+    "id": 6,
+    "name": "Unreal Engine",
+    "logo": "/images/skills/unreal.png"
+  },
+  {
+    "id": 7,
+    "name": "Maya",
+    "logo": "/images/skills/maya.png"
+  },
+  {
+    "id": 8,
+    "name": "3ds Max",
+    "logo": "/images/skills/3dsmax.png"
+  },
+  {
+    "id": 9,
+    "name": "Adobe Premiere pro",
+    "logo": "/images/skills/premiere.png"
+  },
+  {
+    "id": 10,
+    "name": "Adobe Photoshop",
+    "logo": "/images/skills/photoshop.png"
+  }
+]

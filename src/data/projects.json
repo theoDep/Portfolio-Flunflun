@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "title": "High Poly : Château 3D",
+    "shortDesc": "Création d’un château et de son environnent en High Poly, de ses lumières et textures en PBR ainsi qu’un rendu en Wireframe"
+  },
+  {
+    "id": "02",
+    "title": "Modeling 3D : Surface Planing",
+    "shortDesc": "Création d’un personnage en 3D: Modeling, Texturing, Lighting, Rendering afin de qu’il soit prêt pour le Rigging"
+  },
+  {
+    "id": "03",
+    "title": "Texturing : Méga Roucarnage",
+    "shortDesc": "Texturing complet d’un Pokémon : ajout de détails 2D sur Substance 3D painter et cel shading sur 3ds Max afin de donner vie a une modélisation vierge"
+  },
+  {
+    "id": "04",
+    "title": "Game Design : Erika",
+    "shortDesc": "Réalisation en équipe d’un jeu vidéo horrifique en 3D, de A a Z dans le cadre d'un Game Jam de 5 jours"
+  },
+  {
+    "id": "05",
+    "title": "Game Design : Mirage",
+    "shortDesc": "Réalisation du 1er chapitre d'un Jeu vidéo de type Visual Novel codé sur RenPy"
+  },
+  {
+    "id": "06",
+    "title": "Modeling 3D : Fan Art Lapins Crétins",
+    "shortDesc": "Modélisation 3D inspiré du jeu vidéo Lapins Crétins incluant les personnages, leur environnement : textures et lumières avec plusieurs points de vue et rendus"
+  }
+]
